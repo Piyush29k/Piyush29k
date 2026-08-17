@@ -1,10 +1,29 @@
-# 👋 Hi, I'm Piyush Kumar
+<h1 align="center">👋 Hi, I'm Piyush Kumar</h1>
 
-### 🎓 Computer Science & Engineering Student | 💻 Full-Stack Developer | 🚀 Problem Solver
+<h3 align="center">
+  🎓 Computer Science & Engineering Student
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;☕+Java+Developer;⚛️+React+%26+Next.js+Developer;🤖+AI%2FML+Enthusiast;🎨+UI%2FUX+Enthusiast;🧩+Problem+Solver;🚀+Building+Real-World+Projects" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  I love turning ideas into <b>practical, scalable, and user-friendly applications</b>.
+  <br/>
+  Always learning • Always building • Always improving 🚀
+</p>
+
+---
+
+### 🧑‍💻 About Me
 
 I'm a Computer Science & Engineering student passionate about **Full-Stack Development, Java, AI/ML, UI/UX Design, and Problem Solving**.
 
-I enjoy building practical projects that solve real-world problems and continuously improving my development skills.
+🔭 **Building:** Real-world full-stack applications
+🌱 **Learning:** Java, DSA, React, AI/ML & Computer Networks
+💡 **Interested in:** Software Development, AI & Modern Web Technologies
+🚀 **Goal:** Build impactful software and continuously grow as a developer
 
 ---
 
