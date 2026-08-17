@@ -167,15 +167,6 @@ A web-based application for managing books, students, and library operations.
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Piyush29k/Piyush29k/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</p>
 
 ---
 
