@@ -137,9 +137,7 @@ A web-based application for managing books, students, and library operations.
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Piyush29k&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com/?user=Piyush29k&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
