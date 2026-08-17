@@ -1,5 +1,6 @@
-👋 Hi, I'm Piyush Kumar
-🎓 Computer Science & Engineering Student | 💻 Full-Stack Developer | 🚀 Problem Solver
+#👋 Hi, I'm Piyush Kumar
+
+##🎓 Computer Science & Engineering Student | 💻 Full-Stack Developer | 🚀 Problem Solver
 
 I'm a Computer Science & Engineering student passionate about Full-Stack Development, Java, AI/ML, UI/UX Design, and Problem Solving.
 
@@ -7,16 +8,7 @@ I enjoy building practical projects that solve real-world problems and continuou
 
 ---
 
-### 🧑‍💻 About Me
 
-I'm a Computer Science & Engineering student passionate about **Full-Stack Development, Java, AI/ML, UI/UX Design, and Problem Solving**.
-
-🔭 **Building:** Real-world full-stack applications
-🌱 **Learning:** Java, DSA, React, AI/ML & Computer Networks
-💡 **Interested in:** Software Development, AI & Modern Web Technologies
-🚀 **Goal:** Build impactful software and continuously grow as a developer
-
----
 
 ## 🚀 About Me
 
