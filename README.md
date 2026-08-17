@@ -166,23 +166,24 @@ A web-based application for managing books, students, and library operations.
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Piyush29k">
-<img src="https://img.shields.io/badge/GitHub-Piyush29k-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Piyush29k-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href=["YOUR_LINKEDIN_URL"](https://www.linkedin.com/in/piyush-kumar-b642922a2/)>
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/piyush-kumar-b642922a2/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:piyushk350m@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
 </p>
+
 
 ---
 
