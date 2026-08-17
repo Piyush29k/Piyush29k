@@ -1,68 +1,60 @@
-# Hi, I'm Piyush Kumar 👋
+# 👋 Hi, I'm Piyush Kumar
 
 ### 🎓 Computer Science & Engineering Student | 💻 Full-Stack Developer | 🚀 Problem Solver
 
-I'm a **Computer Science & Engineering student** passionate about building practical, scalable, and user-friendly software applications.
+I'm a Computer Science & Engineering student passionate about **Full-Stack Development, Java, AI/ML, UI/UX Design, and Problem Solving**.
 
-I enjoy working across the full development stack, from designing intuitive interfaces to developing APIs and database-driven applications. I'm also exploring **Artificial Intelligence, Machine Learning, and Data Structures & Algorithms**.
+I enjoy building practical projects that solve real-world problems and continuously improving my development skills.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Computer Science & Engineering Student
-* 💻 Interested in **Full-Stack Development**
-* 🌐 Building applications with **React, Next.js, Node.js & Express**
-* ☕ Learning and improving my **Java** skills
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🤖 Exploring **Machine Learning & AI**
-* 🎨 Interested in **UI/UX Design**
-* 🌱 Always learning, building, and experimenting with new technologies
+* 💻 Full-Stack Developer
+* ⚛️ React & Next.js Developer
+* ☕ Java Programmer
+* 🟢 Node.js & Express Developer
+* 🗄️ MongoDB & SQL
+* 🤖 Exploring AI & Machine Learning
+* 🎨 Interested in UI/UX Design
+* 🧩 Practicing Data Structures & Algorithms
+* 🌱 Always learning and building
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+## 💻 Languages
 
-`C` `C++` `Java` `JavaScript` `Python`
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,python)](https://skillicons.dev)
 
-### 🎨 Frontend
+## ⚛️ Development
 
-`HTML` `CSS` `JavaScript` `React` `Next.js`
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb)](https://skillicons.dev)
 
-### ⚙️ Backend
+## 🧰 Tools
 
-`Node.js` `Express.js` `REST APIs`
-
-### 🗄️ Database
-
-`MongoDB` `MongoDB Atlas` `SQL` `Oracle`
-
-### 🤖 AI / ML
-
-`Machine Learning` `Data Analysis` `AI`
-
-### 🔧 Tools & Technologies
-
-`Git` `GitHub` `VS Code` `Chart.js`
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📊 LearnLytics — Student Performance Analysis System
+## 📊 LearnLytics
 
-A web-based platform designed to analyze and visualize student academic performance.
+### Student Performance Analysis System
+
+A web-based platform for analyzing and visualizing student academic performance.
 
 **Features:**
 
 * 📈 SGPA & CGPA analysis
 * 📚 Semester-wise performance
-* 📊 Interactive performance analytics
+* 📊 Interactive analytics
 * 🤖 AI-based performance prediction
-* 📄 PDF result upload & data extraction
-* 👨‍🎓 Student-specific dashboards
+* 📄 PDF result upload and extraction
+* 👨‍🎓 Student-specific dashboard
 * 📋 Subject-wise performance tracking
 
 **Tech Stack:**
@@ -70,16 +62,18 @@ A web-based platform designed to analyze and visualize student academic performa
 
 ---
 
-### 💰 SplitSmart Pro — Expense Splitting Application
+## 💰 SplitSmart Pro
 
-A practical application for managing and splitting expenses among friends, groups, or teams.
+### Expense Splitting Application
+
+A practical application for managing and splitting expenses between friends, groups, or teams.
 
 **Features:**
 
 * 💵 Add and manage expenses
 * 👥 Split expenses between users
+* 🧮 Automatic balance calculation
 * 📊 Track individual contributions
-* 🧮 Calculate balances
 * 📱 User-friendly interface
 
 **Tech Stack:**
@@ -87,14 +81,14 @@ A practical application for managing and splitting expenses among friends, group
 
 ---
 
-### 📚 Library Management System
+## 📚 Library Management System
 
-A web-based library management system for managing books, users, and library operations.
+A web-based application for managing books, students, and library operations.
 
 **Features:**
 
 * 📖 Book management
-* 👤 Student/user management
+* 👤 User management
 * 🔍 Book search
 * 📋 Issue & return management
 * 📊 Library records
@@ -104,61 +98,108 @@ A web-based library management system for managing books, users, and library ope
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-* ⚛️ React & Advanced React
-* ☕ Java & OOP
+* ⚛️ React
+* ☕ Java
 * 🧩 Data Structures & Algorithms
-* 🧠 Machine Learning
+* 🤖 Machine Learning
 * 🌐 Computer Networks
 * 🗄️ Database Management Systems
 * 🚀 Advanced Full-Stack Development
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-* 🚀 Build more real-world software projects
-* 💻 Improve Full-Stack Development skills
-* 🧩 Strengthen DSA & problem-solving
+* 🚀 Build more real-world projects
+* 💻 Become stronger in Full-Stack Development
+* 🧩 Improve DSA and problem-solving
 * 🤖 Build practical AI/ML applications
 * 🌐 Contribute to Open Source
 * 💼 Prepare for software development internships
-* 🏆 Continue competitive programming and technical learning
+* 🏆 Improve competitive programming skills
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush29k&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush29k&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush29k&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush29k&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Piyush29k/Piyush29k/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+<img src="https://streak-stats.demolab.com?user=Piyush29k&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📈 Contribution Graph
 
-* 💼 **LinkedIn:** (https://www.linkedin.com/in/piyush-kumar-b642922a2/)
-* 🐙 **GitHub:** [Piyush29k](https://github.com/Piyush29k)
-* 📧 **Email:** piyushk350m@gmail.com
+<p align="center">
+
+<a href="https://github.com/Piyush29k">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush29k&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</a>
+
+</p>
 
 ---
 
-## ⚡ Fun Fact
+# 🐍 Contribution Snake
 
-> I believe the best way to learn technology is to **build something with it.** 🚀
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Piyush29k/Piyush29k/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</p>
 
 ---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Piyush29k">
+<img src="https://img.shields.io/badge/GitHub-Piyush29k-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href=["YOUR_LINKEDIN_URL"](https://www.linkedin.com/in/piyush-kumar-b642922a2/)>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:piyushk350m@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Developer Mindset
+
+> **Learn → Build → Break → Fix → Improve → Repeat 🚀**
+
+I believe the best way to learn technology is to **build something with it.**
+
+---
+
+<p align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
 **Keep Learning • Keep Building • Keep Growing 🚀**
+
+</p>
